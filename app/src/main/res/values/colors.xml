@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="omnitrix_green">#9fce68</color>
+    <color name="omnitrix_red">#ff0b0b</color>
+    <color name="omnitrix_white">#ffffff</color>
+    <color name="omnitrix_grey">#717174</color>
+    <color name="omnitrix_black">#020306</color>
+</resources>

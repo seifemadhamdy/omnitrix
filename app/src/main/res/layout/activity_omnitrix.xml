@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<seifemadhamdy.omnitrix.view.OmnitrixView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/omnitrix_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/omnitrix_green"
+    tools:context=".ui.OmnitrixActivity"
+    tools:deviceIds="wear" />
